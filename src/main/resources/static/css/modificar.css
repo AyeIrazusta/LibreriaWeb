@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/10/2021, 18:45:24
+    Author     : Cortinez Juan José
+*/
+
+body {
+    height: 400px;
+    background-image: url("../img/modificar.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+  }
+  footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+  }
+label{
+      text-align: center;
+      color:white;
+  }
